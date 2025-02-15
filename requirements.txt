@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+youtube_comment_downloader
